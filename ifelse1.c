@@ -12,3 +12,4 @@ int main()
     }
     return 0;
 }
+//it is due to float point accuracy, ie the decimal points
