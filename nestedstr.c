@@ -41,6 +41,6 @@ int main(){
     printf("Employee city: %s\n",E.add.city);
     printf("Employee street name: %s\n",E.add.streetName);
 
-
+    printf("task completed");
     return 0;
 }
